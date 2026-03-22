@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+.env
+src/main.py
+uv.lock
+hyperd.log
+uv.lock
+pyproject.toml
+.DS_Store
+.ipynb
